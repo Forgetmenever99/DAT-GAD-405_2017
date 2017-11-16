@@ -23,6 +23,7 @@ function draw() {
   stroke(r, g, b);
   fill(r, g, b, 127);
   ellipse(360, 200, 200, 200);
+  
   //Print on the console the X position of the mouse
   console.log("mouseX position: " + mouseX);
 }
