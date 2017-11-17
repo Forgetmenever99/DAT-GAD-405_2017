@@ -15,7 +15,11 @@ function setup() {
 
 //Rendering function
 function draw() {
+  //Set a background color
+  background(60);
+  
   //Print a message to the console - to view using Chrome:
   //View > Developer > Developer Tools > Console
   console.log("Rendering...")
+  noLoop();
 }
