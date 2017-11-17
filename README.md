@@ -18,13 +18,19 @@ Homework and class exercises will be given in every session, which are required 
 
 Attendance is mandatory in all sessions. Please inform your lecturers via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
 
-##Syllabus
+##Syllabus  
 **Session 1**  
 Module Introduction  
 Assignment Brief  
 What is Creative Coding?  
-Introduction to Tools  
-Introduction to P5.JS (Fundamentals of drawing and graphics)  
+Introduction to Tools & Software
+* Atom editor (https://atom.io)
+* GitHub (https://github.com)
+* P5.js (https://p5js.org/)
+Introduction to P5.js: Fundamentals of drawing and graphics
+* Hello P5.js (http://hello.p5js.org)
+* Get Started (https://p5js.org/get-started/)
+* P5.js Overview (https://github.com/processing/p5.js/wiki/p5.js-overview)
 
 **Session 2**  
 HTML & Javascript Basics  
@@ -56,7 +62,7 @@ Practice / Assignment development
 Practice / Assignment development  
 
 **Session 9**  
-Submission Assignment 1		
+Assignment 1 Submission  
 
 **Session 10**  
 Libraries (https://p5js.org/libraries/)		
@@ -65,7 +71,8 @@ Libraries (https://p5js.org/libraries/)
 JSON, APIs		
 
 **Session 12**  
-Real-time communication (socket.io)		
+Real-time Communication Systems  
+Socket.io  
 
 **Session 13**  
 Practice / Assignment development		
@@ -77,4 +84,6 @@ Practice / Assignment development
 Practice / Assignment development  
 
 **Session 16**  
-Submission Assignment 2  
+Assignment 2 Submission  
+
+##Resources  
