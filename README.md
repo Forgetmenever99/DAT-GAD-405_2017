@@ -53,7 +53,7 @@ Practice / Assignment development
 **Session 8**
 Practice / Assignment development
 
-**Session 9**
+**Session 9**  
 Submission Assignment 1		
 
 **Session 10**
