@@ -19,6 +19,7 @@ Homework and class exercises will be given in every session, which are required 
 Attendance is mandatory in all sessions. Please inform your lecturers via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
 
 ##Syllabus  
+
 **Session 1**  
 Module Introduction  
 Assignment Brief  
@@ -26,7 +27,7 @@ What is Creative Coding?
 Introduction to Tools & Software
 * Atom editor (https://atom.io)
 * GitHub (https://github.com)
-* P5.js (https://p5js.org/)
+* P5.js (https://p5js.org/)  
 Introduction to P5.js: Fundamentals of drawing and graphics
 * Hello P5.js (http://hello.p5js.org)
 * Get Started (https://p5js.org/get-started/)
@@ -50,10 +51,11 @@ DOM / P5.DOM
 **Session 5**  
 GUI  
 Generative Design  
-Media  
+Media Files  
 
 **Session 6**  
-Objects, Arrays, Functions (CodePen)  
+Arrays & Objects  
+CodePen  
 
 **Session 7**  
 Practice / Assignment development  
@@ -65,12 +67,14 @@ Practice / Assignment development
 Assignment 1 Submission  
 
 **Session 10**  
-Libraries (https://p5js.org/libraries/)		
+Libraries: P5.js (https://p5js.org/libraries/), Phaser (http://phaser.io)  
 
 **Session 11**  
+Libraries: P5.js (https://p5js.org/libraries/), Phaser (http://phaser.io)  
 JSON, APIs		
 
 **Session 12**  
+Libraries: P5.js (https://p5js.org/libraries/), Phaser (http://phaser.io)  
 Real-time Communication Systems  
 Socket.io  
 
@@ -87,3 +91,15 @@ Practice / Assignment development
 Assignment 2 Submission  
 
 ##Resources  
+https://p5js.org/learn/  
+https://www.plymouth.ac.uk/your-university/about-us/university-structure/service-areas/it-services/lynda  
+McCarthy, L., Reas, C. & Fry, B. (2015) Getting Started with P5.js: Making Interactive Graphics in JavaScript and Processing, O'Reilly Media, New York.  
+
+Shiffman, D. ()  
+http://natureofcode.com  
+
+Discussion on ES6 https://github.com/i3games/jsopinion  
+
+Javascript Semi-Standard Style https://github.com/Flet/semistandard  
+
+https://www.futurelearn.com/courses/creative-coding  
