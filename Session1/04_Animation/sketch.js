@@ -2,7 +2,7 @@
 //https://p5js.org/learn/
 
 //DAT405 / GAD405
-//03_Colorlines
+//02_Coordinates
 
 //Initialization function
 function setup() {
