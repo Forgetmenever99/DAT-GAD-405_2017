@@ -8,10 +8,12 @@ This is an introduction to DAT405/GAD405 Creative Coding. Main artists and pract
 * Atom https://atom.io  
 * Github https://github.com  
 * P5.js https://p5js.org  
+* Chrome https://www.google.com/chrome/browser/desktop/index.html  
+
 After the setup of the software and configuring a main project using the templates provided, there is a demonstration in relation to drawing basics (text, color, shapes). Finally the students are asked to complete a series of exercises (code will be available after the submission deadline).  
 
 **Recommended Bibliography & Resources**  
-  
+
 * Maeda, J. (2004), Creative Code: Aesthetics + Computation (1st ed.), Thames & Hudson Limited  
 * Lopes, D. (2009), A Philosophy of Computer Art, London: Routledge  
 * Murray, S. (2017), Creative Coding and Data Visualization With P5.js: Drawing on the Web With Javascript, O’Reilly  
