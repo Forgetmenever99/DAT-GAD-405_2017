@@ -1,5 +1,4 @@
 DAT405 / GAD405 Creative Coding  
-(Fall 2017)
 ===========================================
 
 __Repository for DAT405 / GAD405 Creative Coding  
@@ -26,11 +25,11 @@ Attendance is mandatory in all sessions. Please inform your lecturers via email 
 Module Introduction  
 Assignment Brief  
 What is Creative Coding?  
-Introduction to Tools & Software
+Introduction to Tools & Software  
+Introduction to P5.js: Fundamentals of drawing and graphics  
 * Atom editor (https://atom.io)
 * GitHub (https://github.com)
 * P5.js (https://p5js.org/)  
-Introduction to P5.js: Fundamentals of drawing and graphics
 * Hello P5.js (http://hello.p5js.org)
 * Get Started (https://p5js.org/get-started/)
 * P5.js Overview (https://github.com/processing/p5.js/wiki/p5.js-overview)
