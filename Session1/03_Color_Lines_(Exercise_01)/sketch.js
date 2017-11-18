@@ -23,31 +23,6 @@ function draw() {
   //Erase all canvas. Set the color to white
   background(100);
 
-  //Line: Blue + Red
-  stroke(255, 0, 255);
-  line(50, 50, width-50, 50);
-
-  //Line: Blue + Green
-  stroke(0, 255, 255);
-  line(50, 50, 50, height-50);
-
-  //Line: Blue + Yellow
-  stroke(0, 255, 0);
-  line(50, 50, width-50, height-50);
-
-  //Line: Green + Yellow
-  stroke(150, 200, 100);
-  line(50, height-50, width-50, height-50);
-
-  //Line: Green + Red
-  stroke(255, 255, 0);
-  line(50, height-50, width-50, 50);
-
-  //Line: Yellow + Red
-  stroke(235, 110, 50);
-  line(width-50, height-50, width-50, 50);
-
-  noStroke();
   //Top left corner shape position and color
   fill(0, 0, 255);
   ellipse(50, 50, 100, 100);
