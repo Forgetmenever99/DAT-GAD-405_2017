@@ -34,14 +34,17 @@ Introduction to P5.js: Fundamentals of drawing and graphics
 
 **Session 2**  
 HTML & Javascript Basics  
+Functions
+Operators
+Conditional Statements
 Debugging  
-Github (Classroom)  
+GitHub
 
 **Session 3**  
-Control Structures  
-Conditional statements  
-Interaction Basics  
-Tips & Tricks  
+Variables (var, const, let)
+For-Loops
+Nesting
+Transformations
 
 **Session 4**  
 HTML & CSS  
