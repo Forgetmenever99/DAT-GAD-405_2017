@@ -10,10 +10,8 @@ Computational tools and platforms have allowed a new era of creativity across mu
 
 ##Evaluation
 Grades will be determined according to the following breakdown:
-* Regular Assignments: 20%
-* Participation and Attendance: 20%
-* Assignment 1: 30%
-* Assignment 2: 30%
+* Assignment 1: 50%
+* Assignment 2: 50%
 
 Homework and class exercises will be given in every session, which are required to complete in the time given. Each student will be asked to demonstrate this work through their individual Github accounts. Being punctual in these responsibilities is necessary in completing this module.
 
