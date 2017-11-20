@@ -48,12 +48,14 @@ Transformations
 
 **Session 4**  
 HTML & CSS  
+Local Server
+GitHub Pages
 DOM / P5.DOM  
 
 **Session 5**  
-GUI  
-Generative Design  
 Media Files  
+Generative Design  
+GUI
 
 **Session 6**  
 Arrays & Objects  

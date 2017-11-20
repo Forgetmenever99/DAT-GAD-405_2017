@@ -19,6 +19,9 @@ function setup() {
   //Preferences for the text (size, and alignment)
   textSize(20);
   textAlign(CENTER);
+
+  fill(255, 0, 0);
+  rect(width/2, height/2, 50, 50);
 }
 
 //Rendering function
@@ -30,10 +33,10 @@ function draw() {
   fill(255);
   //Set the text message as the frame count
   //Position text in the middle of the screen
-  text("Frame Count:  " + frameCount, width/2, height/2-20)
+  text("Frame Count:  " + frameCount, width/2, height/2-20);
   //Set the text message as the frame rate (round it to an integer)
   //Position text in the middle of the screen
-  text("Frame Rate:  " + Math.round(frameRate()), width/2, height/2+20)
+  text("Frame Rate:  " + Math.round(frameRate()), width/2, height/2+20);
 
   //noLoop();
 }
