@@ -1,5 +1,5 @@
+//https://github.com/stavrosdidakis/DAT-GAD-405_2017
 //https://p5js.org
-//https://p5js.org/learn/
 
 //DAT405 / GAD405
 //02_Coordinates
