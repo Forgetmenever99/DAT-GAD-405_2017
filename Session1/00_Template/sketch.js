@@ -6,9 +6,6 @@
 //The purpose of this sketch is to provide a basic template
 //for P5.js projects
 
-
-//aefqegqegqegqefgqegqge
-
 //Initialization function
 function setup() {
   //Print a message to the console - to view using Chrome:
