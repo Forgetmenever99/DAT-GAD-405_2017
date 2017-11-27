@@ -19,6 +19,8 @@ function draw() {
   //Set a background color
   background(255, 0, 255);
 
+  ellipse(20,20,100,100);
+
   //Print a message to the console - to view using Chrome:
   //View > Developer > Developer Tools > Console
   console.log("Rendering...")
