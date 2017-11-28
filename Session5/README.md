@@ -2,9 +2,9 @@ DAT405 / GAD405 Creative Coding
 (Fall 2017)
 ===========================================
 
-__Session 3__
+__Session 5__
 
-In this session we will explore variables in Javascript and P5.js and understand the differences between var, let, and const. Following that we will discuss and practice for-loops and nesting, and generate visual content in a more dynamic and efficient way. In addition, we will see how to include images in our sketches, how to process them, and also how to generate visual content utilizing for-loops. Students are expected to follow the class examples and develop their own individual work via the assignments given in class.
+In this session we will work with various types of motion: from random, to linear, and we will start shaping visual content with a computational logic (using if statements, interactions, mappings, and so on). Students are expected to follow the class examples and develop their own individual work via the assignments given in class.
 
 **Recommended Bibliography & Resources**  
 
