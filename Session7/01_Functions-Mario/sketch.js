@@ -15,14 +15,20 @@ function draw(){
   noLoop();
   background(0);
 
-  //for (let i=0; i<4; i++){
+  //Use a for-loop to create 4 independent Marios on random location on screen)
+  for (let i=0; i<4; i++){
+    //push and pop will reset the coordinate system after each translation
     push();
     translate(random(0, width-100), random(0, height-100));
-    mario(3);
+    //The number of the argument defines the color Mario is drawn with
+    mario(i);
     pop();
-  //}
+  }
 }
 
+//This function creates a Mario on the screen
+//newColor is an argument that defines the color of each new Marios
+//In this case it will be between 0 to 3 (as set above, in the for-loop)
 function mario(newColor){
   //Hat: 255, 18, 21
   if (newColor === 0) fill(255, 18, 21);
